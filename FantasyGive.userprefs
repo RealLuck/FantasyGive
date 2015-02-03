@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="FantasyGive-Android/FantasyGive-Android.csproj">
+﻿<Properties StartupItem="FantasyGive-iOS/FantasyGive-iOS.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.Nexus_5_API_21_x86" />
   <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

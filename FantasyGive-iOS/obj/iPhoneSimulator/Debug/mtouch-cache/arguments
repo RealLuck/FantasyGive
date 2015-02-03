@@ -1,0 +1,31 @@
+# Version: 8.6.0.51 (dfb682f)
+# [first argument, ignore] # /Users/Cam/Desktop/FantasyGive/FantasyGive-iOS/bin/iPhoneSimulator/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.6.0.51/bin/mtouch-64 \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/Cam/Desktop/FantasyGive/FantasyGive-iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--executable \
+	FantasyGive-iOS \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/Cam/Desktop/FantasyGive/FantasyGive-iOS/bin/iPhoneSimulator/Debug/FantasyGive-iOS.app \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	8.1 \
+	-targetver \
+	8.0 \
+	--abi=i386 \
+	--gcc_flags \
+	"-Xlinker -sectcreate -Xlinker __TEXT -Xlinker __entitlements -Xlinker \"/Users/Cam/Desktop/FantasyGive/FantasyGive-iOS/bin/iPhoneSimulator/Debug/FantasyGive-iOS.xcent\"" \
+	/Users/Cam/Desktop/FantasyGive/FantasyGive-iOS/bin/iPhoneSimulator/Debug/FantasyGive-iOS.exe \

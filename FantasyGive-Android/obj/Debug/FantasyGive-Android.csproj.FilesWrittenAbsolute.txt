@@ -1,0 +1,17 @@
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/bin/Debug/FantasyGive-Android.dll.mdb
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/bin/Debug/FantasyGive-Android.dll
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/bin/Debug/FantasyGive_Android.FantasyGive_Android.apk
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/android/bin/FantasyGive_Android.FantasyGive_Android.apk
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/res/layout/main.xml
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/res/values/strings.xml
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/res/drawable-hdpi/icon.png
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/res/drawable-mdpi/icon.png
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/R.cs.flag
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/bin/Debug/FantasyGive_Android.FantasyGive_Android-Signed.apk
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/uploadflags.txt
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/FantasyGive-Android.dll
+/Users/Cam/Desktop/FantasyGive/FantasyGive-Android/obj/Debug/FantasyGive-Android.dll.mdb
